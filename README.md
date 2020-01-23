@@ -1,2 +1,2 @@
-PHP MVC
-MySQL
+- PHP MVC
+- MySQL
